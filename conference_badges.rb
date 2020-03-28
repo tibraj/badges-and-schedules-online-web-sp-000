@@ -29,4 +29,5 @@ def printer(array)
   end
   second.each do |element|
     puts "#{element}"
+  end
 end
